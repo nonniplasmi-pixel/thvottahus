@@ -1,22 +1,22 @@
 {
-  "name": "hreinlina",
-  "version": "1.0.0",
+  "name": "thvottahus",
   "private": true,
+  "version": "0.1.0",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
     "start": "next start"
   },
   "dependencies": {
-    "next": "14.1.0",
-    "react": "18.2.0",
-    "react-dom": "18.2.0",
-    "lucide-react": "^0.344.0"
+    "next": "^14.1.0",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "lucide-react": "^0.454.0"
   },
   "devDependencies": {
-    "typescript": "^5.2.2",
-    "tailwindcss": "^3.4.1",
-    "postcss": "^8.4.31",
-    "autoprefixer": "^10.4.16"
+    "typescript": "^5.6.2",
+    "tailwindcss": "^3.4.7",
+    "postcss": "^8.4.39",
+    "autoprefixer": "^10.4.19"
   }
 }
